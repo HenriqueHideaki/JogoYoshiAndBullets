@@ -1,6 +1,6 @@
 # JogoYoshiAndBullets
 Jogo criado na disciplina de logica de programação
-<center> <h1> Tela Inicial do Jogo </h1> </center>
+<center> <h1> GIF do Jogo </h1> </center>
 
-#Gif do jogo
+![Yoshi and Bullets](https://github.com/HenriqueHideaki/JogoYoshiAndBullets/blob/main/JogoYoshiAndBulletsGIF.gif)
 
